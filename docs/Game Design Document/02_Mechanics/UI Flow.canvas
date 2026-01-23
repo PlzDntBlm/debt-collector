@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"df32be8465c4e2c4","type":"text","text":"```mermaid\ngraph TD\n    Start[Press Start] --> Menu[In-Game Menu]\n    \n    Menu --> Memo[Click Memo]\n    Menu --> Equip[Click Equipment]\n    Menu --> Item[Click Item]\n    Menu --> Options[Click Options]\n\n    Item --> Action{Action?}\n    Action --> Use\n    Action --> Combine\n    Action --> Examine\n    \n    Use --> Game[Return to Game]\n```","x":-500,"y":-160,"width":920,"height":740}
+	],
+	"edges":[]
+}

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ed9c4ce91eea0386","x":-416,"y":-200,"width":456,"height":740,"type":"text","text":"# Player State Machine\n\n## Movement Logic\n```mermaid\nstateDiagram-v2\n    [*] --> Idle\n    Idle --> Run : Input > 0.1\n    Run --> Idle : Input == 0\n    \n    state \"Airborne\" as Air {\n        Jump --> Fall\n        Fall --> Land\n    }\n    \n    Idle --> Jump : Press Space\n    Run --> Jump : Press Space\n    Land --> Idle"},
+		{"id":"c4d1b6a4f0392469","x":-416,"y":544,"width":456,"height":236,"type":"text","text":"## Input Table\n\n| Action | Key   | Condition        |\n| ------ | ----- | ---------------- |\n| Move   | WASD  |                  |\n| Jump   | Space | grounded == true |\n| Dash   | Shift | cooldown <= 0    |"}
+	],
+	"edges":[]
+}

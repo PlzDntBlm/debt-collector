@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"32144a6f0046f9a8","type":"text","text":"# Core Gameplay Loop\n\n## The Flow\n\n```mermaid\ngraph TD\n    Start([Start Day]) --> Boarding[Passengers Board]\n    Boarding --> Departs[Train Departs]\n    Departs --> Action{Player Action Phase}\n    \n    Action -->|Task| Ticket[Check Tickets]\n    Action -->|Task| Maint[Fix Engine]\n    Action -->|Social| Talk[NPC Dialogue]\n    \n    Ticket --> Stress[+ Stress / + Money]\n    Talk --> Spirit{Is Passenger Spirit?}\n    Spirit -->|Yes| Minigame[Spirit Event]\n    \n    Action --> Arrive[Station Arrival]\n    Arrive --> End([End Day / Upgrade])\n```","x":-720,"y":-400,"width":960,"height":1240},
+		{"id":"dd424d5d5b435920","type":"text","text":"## Description\n\n1. **Start:** Player enters the dungeon.\n    \n2. **Action:** Fast-paced top-down shooting.\n    \n3. **Loot:** Gold drops from enemies automatically.","x":280,"y":-400,"width":483,"height":176}
+	],
+	"edges":[]
+}
