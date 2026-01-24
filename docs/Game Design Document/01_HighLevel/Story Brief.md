@@ -1,0 +1,1 @@
+The player inherits a train operation company and discovers their unique ability to see and communicate with spirits aboard your train. As they progress and unlock new routes and locations they meet new people the one or the other traveler already know. Again and again they earn that there is more to a person in limbo in such a liminal place like the seats of a train cart.
