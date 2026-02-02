@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>086AF8C074AA5FF77F1B8FED55A4FA899566822C67A7C1560F2F06D318D4023A</Signature>
+  <Content>
+    <Project Guid="b2a09462-75a1-44bb-b6dd-6c393aff27f5">
+      <DisplayName Value="ChicagoHeist_VS"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="0d7dc1ce-c62e-49b1-8984-a3c734c789e5"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="639056533252193577"/>
+      <PartitionHash Value="89803B24B66E7835A5F3E5EE6267685BBA52A1E340BE58A4E7610BD3C36F069D"/>
+      <SaveFileVersion Value="60"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
