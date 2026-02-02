@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"f5159ae7c67dbc39","type":"group","x":-920,"y":-700,"width":1360,"height":1160,"label":"Mini Pitch Bible"},
-		{"id":"9f91a52e7bddb46e","x":520,"y":-700,"width":1200,"height":1160,"type":"group","label":"Design Document"},
-		{"id":"a6c076ebab934b3a","type":"file","file":"Mini Pitch Bible/1.1. Story Synopsis.md","x":-880,"y":-660,"width":400,"height":400},
-		{"id":"267117e5c58308c8","type":"file","file":"Mini Pitch Bible/1.2 Game Synopsis.md","x":-440,"y":-660,"width":400,"height":400},
-		{"id":"c599c157c287155a","type":"file","file":"Mini Pitch Bible/2. Moodboard.md","x":0,"y":-660,"width":400,"height":400},
-		{"id":"5aa7a87fe8c6332c","type":"file","file":"Mini Pitch Bible/3. Hero Action Pose.md","x":-880,"y":-220,"width":400,"height":400},
-		{"id":"974da2f0e5911451","type":"file","file":"Mini Pitch Bible/4. Turnaround.md","x":-440,"y":-220,"width":400,"height":400}
+		{"id":"9f91a52e7bddb46e","type":"group","x":520,"y":-700,"width":1200,"height":1160,"label":"Design Document"},
+		{"id":"a6c076ebab934b3a","type":"file","file":"docs/Mini Pitch Bible/1.1. Story Synopsis.md","x":-880,"y":-660,"width":400,"height":400},
+		{"id":"267117e5c58308c8","type":"file","file":"docs/Mini Pitch Bible/1.2 Game Synopsis.md","x":-440,"y":-660,"width":400,"height":400},
+		{"id":"c599c157c287155a","type":"file","file":"docs/Mini Pitch Bible/2. Moodboard.md","x":0,"y":-660,"width":400,"height":400},
+		{"id":"5aa7a87fe8c6332c","type":"file","file":"docs/Mini Pitch Bible/3. Hero Action Pose.md","x":-880,"y":-220,"width":400,"height":400},
+		{"id":"974da2f0e5911451","type":"file","file":"docs/Mini Pitch Bible/4. Turnaround.md","x":-440,"y":-220,"width":400,"height":400}
 	],
 	"edges":[]
 }

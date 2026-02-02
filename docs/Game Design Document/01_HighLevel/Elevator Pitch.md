@@ -1,0 +1,1 @@
+A stealth heist game set in 1920s Chicago where you steal from a mafia boss to revenge yourself, featuring a non linear story based on the  player's action.
